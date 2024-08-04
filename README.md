@@ -1,13 +1,13 @@
 <div id="nlogin-logo" align="center">
     <br />
-    <img src="https://www.nickuc.com/static/assets/img/nlogin.svg" alt="nLogin Logo" width="500"/>
+    <img src="https://assets.shandy.dev/u/2df7913debac4010915cc25bf3a8c4b9" alt="nLogin Logo" width="500"/>
     <h3>Integrate nLogin with your website, forum and/or store.</h3>
 </div>
 
 # Installation
-On PyPI: <a href="https://pypi.org/project/nlogin_py/" target="_blank">https://pypi.org/project/nlogin_py/</a>
+On PyPI: <a href="https://pypi.org/project/nlogin-py/" target="_blank">https://pypi.org/project/nlogin-py/</a>
 
-In terminal: `pip install nlogin_py`
+In terminal: `pip install nlogin-py`
 
 ## Usage:
 1. <a href="#instantiation">Instantiating the nLogin class</a>
